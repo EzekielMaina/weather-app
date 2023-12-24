@@ -47,5 +47,5 @@ samples, guidance on mobile development, and a full API reference.
 ## Screenshots
 ![Splash Screen](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/splash.png)
 ![Home](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/home.png)
-![Geopify API Response](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/location.png
+![Geopify API Response](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/location.png)
 ![Weather Data](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/weather.png)
