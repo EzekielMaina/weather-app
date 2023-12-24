@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - [x] Calender view
 - [x] Search by city
-- [x] Current weather (temperature, condition and wind speed)
+- [x] Current weather (temperature,cloud condition, humidity and wind speed)
 - [x] Weather forecast
 
 ## App Architecture
