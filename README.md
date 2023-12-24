@@ -43,7 +43,9 @@ samples, guidance on mobile development, and a full API reference.
 
 **Note**: The API key has been provided in the code inside `lib/api/keys.dart`.However you can as well register from the above links for you own keys (Geopify and Weather).
 
+
 ## Screenshots
-![Dark Mode](https://github.com/Cornelius-Mutisya/weather_app/assets/29639344/f3b71c5c-6b7f-41e6-b305-119f764ae1c5)
-![Light Mode](https://github.com/Cornelius-Mutisya/weather_app/assets/29639344/569796af-6228-4eff-b3a4-2ac0ac89da34)
-![Settings Dark Mode](https://github.com/Cornelius-Mutisya/weather_app/assets/29639344/ff37f71c-b20c-4138-9d6e-c32b848ba506)
+![Splash Screen](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/splash.png)
+![Home](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/home.png)
+![Geopify API Response](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/location.png
+![Weather Data](https://github.com/EzekielMaina/weather-app/blob/main/assets/app/weather.png)
